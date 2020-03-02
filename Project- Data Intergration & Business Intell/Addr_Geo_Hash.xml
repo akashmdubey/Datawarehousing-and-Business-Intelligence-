@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="true" label="AddressID"
+        length="-1" nullable="true" originalDbColumnName="AddressID"
+        originalLength="-1" pattern="" precision="-1"
+        talendType="id_Integer" type=""/>
+    <column comment="" default="" key="true" label="GeoSK" length="-1"
+        nullable="true" originalDbColumnName="GeoSK" originalLength="-1"
+        pattern="" precision="-1" talendType="id_Integer" type=""/>
+    <column comment="" default="" key="false" label="TerritoryID"
+        length="-1" nullable="true" originalDbColumnName="TerritoryID"
+        originalLength="-1" pattern="" precision="-1"
+        talendType="id_Integer" type=""/>
+</schema>
